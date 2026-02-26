@@ -1,6 +1,6 @@
 #Hadoop/Docker-Compose par @Juliopez
 ## Infrastructure Big Data en utilisant docker-compose.
-<br> Ce concurrent prend également en charge HDFS, Hive, Spark, Hue, Zeppelin, Kafka, Zookeeper et NiFi.
+<br> Cet environnement propose HDFS, Hive, Spark, Hue, Zeppelin, Kafka, Zookeeper et NiFi.
 <br> Pour la mise en œuvre de ce conteneur, il suffit de télécharger (cloner) ce référentiel et de procéder à la décompression sur votre machine locale.
 <br> Luego, installez la ligne de commande, installez le répertoire Hadoop et utilisez `docker-compose up`
 <br>Cela inclut l'installation de Hadoop - HDFS -Spark -Hive- NiFi.
